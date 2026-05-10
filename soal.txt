@@ -1,0 +1,15 @@
+"""Studi kasus: Optimasi Tampilan Produk E-Commerce"""
+
+Sebuah platform e-Commerce ingin meningkatan pengalaman pengguna
+dengan menyediakan fitur pengurutan Produk yang efisien. Manajer Produk Anda
+memiinta anda untuk mengimplementasikan 2 fitur utama:
+    1. Produk termurah: Menampilkan Daftar produk dari yang termurah hingga termahal
+    2. Produk Termahal: Menampilkan Daftar produk dari yang termahal hingga tertinggi hingga terendah
+Diberikan dataset produk dalam format JSON yang berisi 'product_id', 'nama_produk', 'harga', dan 'rating'.
+kerjakan: 
+
+Implementasikan fungsi pengurutan:
+    Gunakan selection_sort_by_price untuk mengurutkan produk berdasarkan harga secara descending (tertinggi ke terendah)
+    gunakan insetion_sort_by_rating untuk mengurutkan produk berdasarkan rating secara ascending (terendah ke tertinggi)
+2. Tampilkan 10 produk pertama untuk masing masing pengurutan (harga tertinggi dan rating terendah)
+

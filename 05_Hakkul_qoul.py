@@ -29,8 +29,8 @@ def urutkan_barang_sesuai_harga(arr):
                 max_idx = j
         arr[i], arr[max_idx] = arr[max_idx], arr[i]
     return arr
-# Ascending terendah ke tertingi
 
+# Ascending terendah ke tertinggi
 def urutkan_barang_sesuai_rating(arr):
     n = len(arr)
     for i in range(1, n):
@@ -45,12 +45,17 @@ def urutkan_barang_sesuai_rating(arr):
 with open("data_produk.json", "r") as f:
     data_produk = json.load(f)
 
-print("=== top 10 produk: Harga tertinggi (Selection sort) ===")
+print("\n" + "="*70)
+print("TOP 10 PRODUK - HARGA TERTINGGI KE TERENDAH")
+print("="*70)
 hasil_harga = urutkan_barang_sesuai_harga(data_produk.copy())
-for i, product in enumerate(hasil_harga[:10], start=1):
-    print(f"{i}. {product['nama_produk']} | kategori: {product['kategori']} |Harga: Rp{product['harga']:,} | Rating: {product['rating']}")
+for i, p in enumerate(hasil_harga[:10], 1):
+    print(f"{i:2}. {p['nama_produk']:15} | {p['kategori']:12} | Rp{p['harga']:12,} | {p['rating']}")
 
-print("\n=== top 10 produk: Rating tertinggi (Insertion sort) ===")
+print("\n" + "="*70)
+print("TOP 10 PRODUK - RATING TERENDAH KE TERTINGGI")
+print("="*70)
 hasil_rating = urutkan_barang_sesuai_rating(data_produk.copy())
-for i, product in enumerate(hasil_rating[:10], start=1):
-    print(f"{i}. {product['nama_produk']} | Kategori: {product['kategori']} |Rating: {product['rating']} | Harga: Rp{product['harga']:,}")
+for i, p in enumerate(hasil_rating[:10], 1):
+    print(f"{i:2}. {p['nama_produk']:15} | {p['kategori']:12} | {p['rating']} | Rp{p['harga']:12,}")
+print("="*70)

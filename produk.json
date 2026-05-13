@@ -1,0 +1,602 @@
+[
+    {
+        "product_id": 1,
+        "nama_produk": "Produk_1",
+        "harga": 200000,
+        "rating": 4.9
+    },
+    {
+        "product_id": 2,
+        "nama_produk": "Produk_2",
+        "harga": 300000,
+        "rating": 4.8
+    },
+    {
+        "product_id": 3,
+        "nama_produk": "Produk_3",
+        "harga": 400000,
+        "rating": 4.7
+    },
+    {
+        "product_id": 4,
+        "nama_produk": "Produk_4",
+        "harga": 500000,
+        "rating": 4.6
+    },
+    {
+        "product_id": 5,
+        "nama_produk": "Produk_5",
+        "harga": 600000,
+        "rating": 4.5
+    },
+    {
+        "product_id": 6,
+        "nama_produk": "Produk_6",
+        "harga": 700000,
+        "rating": 4.4
+    },
+    {
+        "product_id": 7,
+        "nama_produk": "Produk_7",
+        "harga": 800000,
+        "rating": 4.3
+    },
+    {
+        "product_id": 8,
+        "nama_produk": "Produk_8",
+        "harga": 900000,
+        "rating": 4.2
+    },
+    {
+        "product_id": 9,
+        "nama_produk": "Produk_9",
+        "harga": 1000000,
+        "rating": 4.1
+    },
+    {
+        "product_id": 10,
+        "nama_produk": "Produk_10",
+        "harga": 1100000,
+        "rating": 4.0
+    },
+    {
+        "product_id": 11,
+        "nama_produk": "Produk_11",
+        "harga": 1200000,
+        "rating": 3.9
+    },
+    {
+        "product_id": 12,
+        "nama_produk": "Produk_12",
+        "harga": 1300000,
+        "rating": 3.8
+    },
+    {
+        "product_id": 13,
+        "nama_produk": "Produk_13",
+        "harga": 1400000,
+        "rating": 3.7
+    },
+    {
+        "product_id": 14,
+        "nama_produk": "Produk_14",
+        "harga": 1500000,
+        "rating": 3.6
+    },
+    {
+        "product_id": 15,
+        "nama_produk": "Produk_15",
+        "harga": 1600000,
+        "rating": 3.5
+    },
+    {
+        "product_id": 16,
+        "nama_produk": "Produk_16",
+        "harga": 1700000,
+        "rating": 3.4
+    },
+    {
+        "product_id": 17,
+        "nama_produk": "Produk_17",
+        "harga": 1800000,
+        "rating": 3.3
+    },
+    {
+        "product_id": 18,
+        "nama_produk": "Produk_18",
+        "harga": 1900000,
+        "rating": 3.2
+    },
+    {
+        "product_id": 19,
+        "nama_produk": "Produk_19",
+        "harga": 2000000,
+        "rating": 3.1
+    },
+    {
+        "product_id": 20,
+        "nama_produk": "Produk_20",
+        "harga": 2100000,
+        "rating": 3.0
+    },
+    {
+        "product_id": 21,
+        "nama_produk": "Produk_21",
+        "harga": 2200000,
+        "rating": 2.9
+    },
+    {
+        "product_id": 22,
+        "nama_produk": "Produk_22",
+        "harga": 2300000,
+        "rating": 2.8
+    },
+    {
+        "product_id": 23,
+        "nama_produk": "Produk_23",
+        "harga": 2400000,
+        "rating": 2.7
+    },
+    {
+        "product_id": 24,
+        "nama_produk": "Produk_24",
+        "harga": 2500000,
+        "rating": 2.6
+    },
+    {
+        "product_id": 25,
+        "nama_produk": "Produk_25",
+        "harga": 2600000,
+        "rating": 2.5
+    },
+    {
+        "product_id": 26,
+        "nama_produk": "Produk_26",
+        "harga": 2700000,
+        "rating": 2.4
+    },
+    {
+        "product_id": 27,
+        "nama_produk": "Produk_27",
+        "harga": 2800000,
+        "rating": 2.3
+    },
+    {
+        "product_id": 28,
+        "nama_produk": "Produk_28",
+        "harga": 2900000,
+        "rating": 2.2
+    },
+    {
+        "product_id": 29,
+        "nama_produk": "Produk_29",
+        "harga": 3000000,
+        "rating": 2.1
+    },
+    {
+        "product_id": 30,
+        "nama_produk": "Produk_30",
+        "harga": 3100000,
+        "rating": 2.0
+    },
+    {
+        "product_id": 31,
+        "nama_produk": "Produk_31",
+        "harga": 3200000,
+        "rating": 1.9
+    },
+    {
+        "product_id": 32,
+        "nama_produk": "Produk_32",
+        "harga": 3300000,
+        "rating": 1.8
+    },
+    {
+        "product_id": 33,
+        "nama_produk": "Produk_33",
+        "harga": 3400000,
+        "rating": 1.7
+    },
+    {
+        "product_id": 34,
+        "nama_produk": "Produk_34",
+        "harga": 3500000,
+        "rating": 1.6
+    },
+    {
+        "product_id": 35,
+        "nama_produk": "Produk_35",
+        "harga": 3600000,
+        "rating": 1.5
+    },
+    {
+        "product_id": 36,
+        "nama_produk": "Produk_36",
+        "harga": 3700000,
+        "rating": 1.4
+    },
+    {
+        "product_id": 37,
+        "nama_produk": "Produk_37",
+        "harga": 3800000,
+        "rating": 1.3
+    },
+    {
+        "product_id": 38,
+        "nama_produk": "Produk_38",
+        "harga": 3900000,
+        "rating": 1.2
+    },
+    {
+        "product_id": 39,
+        "nama_produk": "Produk_39",
+        "harga": 4000000,
+        "rating": 1.1
+    },
+    {
+        "product_id": 40,
+        "nama_produk": "Produk_40",
+        "harga": 4100000,
+        "rating": 1.0
+    },
+    {
+        "product_id": 41,
+        "nama_produk": "Produk_41",
+        "harga": 4200000,
+        "rating": 0.9
+    },
+    {
+        "product_id": 42,
+        "nama_produk": "Produk_42",
+        "harga": 4300000,
+        "rating": 0.8
+    },
+    {
+        "product_id": 43,
+        "nama_produk": "Produk_43",
+        "harga": 4400000,
+        "rating": 0.7
+    },
+    {
+        "product_id": 44,
+        "nama_produk": "Produk_44",
+        "harga": 4500000,
+        "rating": 0.6
+    },
+    {
+        "product_id": 45,
+        "nama_produk": "Produk_45",
+        "harga": 4600000,
+        "rating": 0.5
+    },
+    {
+        "product_id": 46,
+        "nama_produk": "Produk_46",
+        "harga": 4700000,
+        "rating": 0.4
+    },
+    {
+        "product_id": 47,
+        "nama_produk": "Produk_47",
+        "harga": 4800000,
+        "rating": 0.3
+    },
+    {
+        "product_id": 48,
+        "nama_produk": "Produk_48",
+        "harga": 4900000,
+        "rating": 0.2
+    },
+    {
+        "product_id": 49,
+        "nama_produk": "Produk_49",
+        "harga": 5000000,
+        "rating": 0.1
+    },
+    {
+        "product_id": 50,
+        "nama_produk": "Produk_50",
+        "harga": 5100000,
+        "rating": 0.0
+    },
+    {
+        "product_id": 51,
+        "nama_produk": "Produk_51",
+        "harga": 5200000,
+        "rating": -0.1
+    },
+    {
+        "product_id": 52,
+        "nama_produk": "Produk_52",
+        "harga": 5300000,
+        "rating": -0.2
+    },
+    {
+        "product_id": 53,
+        "nama_produk": "Produk_53",
+        "harga": 5400000,
+        "rating": -0.3
+    },
+    {
+        "product_id": 54,
+        "nama_produk": "Produk_54",
+        "harga": 5500000,
+        "rating": -0.4
+    },
+    {
+        "product_id": 55,
+        "nama_produk": "Produk_55",
+        "harga": 5600000,
+        "rating": -0.5
+    },
+    {
+        "product_id": 56,
+        "nama_produk": "Produk_56",
+        "harga": 5700000,
+        "rating": -0.6
+    },
+    {
+        "product_id": 57,
+        "nama_produk": "Produk_57",
+        "harga": 5800000,
+        "rating": -0.7
+    },
+    {
+        "product_id": 58,
+        "nama_produk": "Produk_58",
+        "harga": 5900000,
+        "rating": -0.8
+    },
+    {
+        "product_id": 59,
+        "nama_produk": "Produk_59",
+        "harga": 6000000,
+        "rating": -0.9
+    },
+    {
+        "product_id": 60,
+        "nama_produk": "Produk_60",
+        "harga": 6100000,
+        "rating": -1.0
+    },
+    {
+        "product_id": 61,
+        "nama_produk": "Produk_61",
+        "harga": 6200000,
+        "rating": -1.1
+    },
+    {
+        "product_id": 62,
+        "nama_produk": "Produk_62",
+        "harga": 6300000,
+        "rating": -1.2
+    },
+    {
+        "product_id": 63,
+        "nama_produk": "Produk_63",
+        "harga": 6400000,
+        "rating": -1.3
+    },
+    {
+        "product_id": 64,
+        "nama_produk": "Produk_64",
+        "harga": 6500000,
+        "rating": -1.4
+    },
+    {
+        "product_id": 65,
+        "nama_produk": "Produk_65",
+        "harga": 6600000,
+        "rating": -1.5
+    },
+    {
+        "product_id": 66,
+        "nama_produk": "Produk_66",
+        "harga": 6700000,
+        "rating": -1.6
+    },
+    {
+        "product_id": 67,
+        "nama_produk": "Produk_67",
+        "harga": 6800000,
+        "rating": -1.7
+    },
+    {
+        "product_id": 68,
+        "nama_produk": "Produk_68",
+        "harga": 6900000,
+        "rating": -1.8
+    },
+    {
+        "product_id": 69,
+        "nama_produk": "Produk_69",
+        "harga": 7000000,
+        "rating": -1.9
+    },
+    {
+        "product_id": 70,
+        "nama_produk": "Produk_70",
+        "harga": 7100000,
+        "rating": -2.0
+    },
+    {
+        "product_id": 71,
+        "nama_produk": "Produk_71",
+        "harga": 7200000,
+        "rating": -2.1
+    },
+    {
+        "product_id": 72,
+        "nama_produk": "Produk_72",
+        "harga": 7300000,
+        "rating": -2.2
+    },
+    {
+        "product_id": 73,
+        "nama_produk": "Produk_73",
+        "harga": 7400000,
+        "rating": -2.3
+    },
+    {
+        "product_id": 74,
+        "nama_produk": "Produk_74",
+        "harga": 7500000,
+        "rating": -2.4
+    },
+    {
+        "product_id": 75,
+        "nama_produk": "Produk_75",
+        "harga": 7600000,
+        "rating": -2.5
+    },
+    {
+        "product_id": 76,
+        "nama_produk": "Produk_76",
+        "harga": 7700000,
+        "rating": -2.6
+    },
+    {
+        "product_id": 77,
+        "nama_produk": "Produk_77",
+        "harga": 7800000,
+        "rating": -2.7
+    },
+    {
+        "product_id": 78,
+        "nama_produk": "Produk_78",
+        "harga": 7900000,
+        "rating": -2.8
+    },
+    {
+        "product_id": 79,
+        "nama_produk": "Produk_79",
+        "harga": 8000000,
+        "rating": -2.9
+    },
+    {
+        "product_id": 80,
+        "nama_produk": "Produk_80",
+        "harga": 8100000,
+        "rating": -3.0
+    },
+    {
+        "product_id": 81,
+        "nama_produk": "Produk_81",
+        "harga": 8200000,
+        "rating": -3.1
+    },
+    {
+        "product_id": 82,
+        "nama_produk": "Produk_82",
+        "harga": 8300000,
+        "rating": -3.2
+    },
+    {
+        "product_id": 83,
+        "nama_produk": "Produk_83",
+        "harga": 8400000,
+        "rating": -3.3
+    },
+    {
+        "product_id": 84,
+        "nama_produk": "Produk_84",
+        "harga": 8500000,
+        "rating": -3.4
+    },
+    {
+        "product_id": 85,
+        "nama_produk": "Produk_85",
+        "harga": 8600000,
+        "rating": -3.5
+    },
+    {
+        "product_id": 86,
+        "nama_produk": "Produk_86",
+        "harga": 8700000,
+        "rating": -3.6
+    },
+    {
+        "product_id": 87,
+        "nama_produk": "Produk_87",
+        "harga": 8800000,
+        "rating": -3.7
+    },
+    {
+        "product_id": 88,
+        "nama_produk": "Produk_88",
+        "harga": 8900000,
+        "rating": -3.8
+    },
+    {
+        "product_id": 89,
+        "nama_produk": "Produk_89",
+        "harga": 9000000,
+        "rating": -3.9
+    },
+    {
+        "product_id": 90,
+        "nama_produk": "Produk_90",
+        "harga": 9100000,
+        "rating": -4.0
+    },
+    {
+        "product_id": 91,
+        "nama_produk": "Produk_91",
+        "harga": 9200000,
+        "rating": -4.1
+    },
+    {
+        "product_id": 92,
+        "nama_produk": "Produk_92",
+        "harga": 9300000,
+        "rating": -4.2
+    },
+    {
+        "product_id": 93,
+        "nama_produk": "Produk_93",
+        "harga": 9400000,
+        "rating": -4.3
+    },
+    {
+        "product_id": 94,
+        "nama_produk": "Produk_94",
+        "harga": 9500000,
+        "rating": -4.4
+    },
+    {
+        "product_id": 95,
+        "nama_produk": "Produk_95",
+        "harga": 9600000,
+        "rating": -4.5
+    },
+    {
+        "product_id": 96,
+        "nama_produk": "Produk_96",
+        "harga": 9700000,
+        "rating": -4.6
+    },
+    {
+        "product_id": 97,
+        "nama_produk": "Produk_97",
+        "harga": 9800000,
+        "rating": -4.7
+    },
+    {
+        "product_id": 98,
+        "nama_produk": "Produk_98",
+        "harga": 9900000,
+        "rating": -4.8
+    },
+    {
+        "product_id": 99,
+        "nama_produk": "Produk_99",
+        "harga": 10000000,
+        "rating": -4.9
+    },
+    {
+        "product_id": 100,
+        "nama_produk": "Produk_100",
+        "harga": 10100000,
+        "rating": -5.0
+    }
+]
